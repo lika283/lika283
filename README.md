@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="65">
 
-<!--
-**lika283/lika283** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+ <summary> <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Github Stats </h2> </summary>
+ 
+[![Lizik's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lika283&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/lika283/github-readme-stats#gh-dark-mode-only)
+[![Lizik's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lika283&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/lika283/github-readme-stats#gh-light-mode-only)
 
-Here are some ideas to get you started:
+[![Lizik stats-Dark](https://github-profile-trophy.vercel.app/?username=lika283&theme=onedark#gh-dark-mode-only)](https://github.com/lika283/github-profile-trophy#gh-dark-mode-only)
+[![Lizik stats-Light](https://github-profile-trophy.vercel.app/?username=lika283&theme=default#gh-light-mode-only)](https://github.com/lika283/github-profile-trophy#gh-light-mode-only)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
+![](https://komarev.com/ghpvc/?username=lika283)
